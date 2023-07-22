@@ -28,3 +28,7 @@
 mutual.08.stints@icloud.com
 75G-XVS-UB5-hTK
 <br>
+# Контактная информация
+
+Email: surgutart86@gmail.com
+Linkedin: https://www.linkedin.com/in/артур-субота-67205788/
