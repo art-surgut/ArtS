@@ -31,4 +31,5 @@ mutual.08.stints@icloud.com
 # Контактная информация
 
 Email: surgutart86@gmail.com
+<br>
 Linkedin: https://www.linkedin.com/in/артур-субота-67205788/
