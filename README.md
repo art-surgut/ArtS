@@ -26,4 +26,4 @@
 [Cсылка на проект](https://art-bug-report.atlassian.net/wiki/spaces/~63a0297515d69a40aa167f0e/pages/1081345/1+2)
 <br>
 mutual.08.stints@icloud.com
-75G-XVS-UB5-hTK![image](https://github.com/art-surgut/ArtS/assets/139262817/8b243960-5b21-4d66-8033-d2a8cfd3d9ca)
+75G-XVS-UB5-hTK
