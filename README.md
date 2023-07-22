@@ -22,4 +22,5 @@
 2️⃣ подготовить тестовую документацию,<br>
 3️⃣ провести тестирование,<br>
 4️⃣ написать отчет о результатах тестирования.<br>
-[ссылка на проект](https://art-bug-report.atlassian.net/wiki/spaces/~63a0297515d69a40aa167f0e/pages/1081345/1+2)
+<br>
+[Cсылка на проект](https://art-bug-report.atlassian.net/wiki/spaces/~63a0297515d69a40aa167f0e/pages/1081345/1+2)
